@@ -8,7 +8,6 @@ from sqlalchemy import create_engine, inspect, func
 from flask import Flask, jsonify
 
 import datetime as dt
-from dateutil.relativedelta import relativedelta
 
 
 #################################################
